@@ -10,4 +10,4 @@ scalacOptions ++= Seq("-feature", "-language:postfixOps")
 
 resolvers += "Akka Snapshots" at "http://repo.akka.io/snapshots/"
 
-libraryDependencies += "com.typesafe.akka" %% "akka-persistence-experimental" % "2.3-20130921-230908"
+libraryDependencies += "com.typesafe.akka" %% "akka-persistence-experimental" % "2.3-SNAPSHOT"
